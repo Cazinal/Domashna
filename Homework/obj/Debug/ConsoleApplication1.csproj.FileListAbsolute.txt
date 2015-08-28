@@ -1,0 +1,2 @@
+E:\Repositories\Domashna\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Repositories\Domashna\Homework\bin\Debug\ConsoleApplication1.exe.config

@@ -1,0 +1,12 @@
+E:\Repositories\Domashna\ConsoleApplication1\Hello Csharp\obj\Debug\Hello Csharp.exe
+E:\Repositories\Domashna\ConsoleApplication1\Hello Csharp\obj\Debug\Hello Csharp.pdb
+E:\Repositories\Domashna\ConsoleApplication1\Hello Csharp\bin\Debug\Hello Csharp.exe.config
+E:\Repositories\Domashna\ConsoleApplication1\Hello Csharp\bin\Debug\Hello Csharp.exe
+E:\Repositories\Domashna\ConsoleApplication1\Hello Csharp\bin\Debug\Hello Csharp.pdb
+E:\Repositories\Domashna\ConsoleApplication1\Hello Csharp\obj\Debug\Homework2.csprojResolveAssemblyReference.cache
+E:\Repositories\Domashna\Homework\Homework2\bin\Debug\Hello Csharp.exe.config
+E:\Repositories\Domashna\Homework\Homework2\obj\Debug\Hello Csharp.exe
+E:\Repositories\Domashna\Homework\Homework2\obj\Debug\Hello Csharp.pdb
+E:\Repositories\Domashna\Homework\Homework2\bin\Debug\Hello Csharp.exe
+E:\Repositories\Domashna\Homework\Homework2\bin\Debug\Hello Csharp.pdb
+E:\Repositories\Domashna\Homework\Homework2\obj\Debug\Homework2.csprojResolveAssemblyReference.cache
